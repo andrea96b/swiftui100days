@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		65F7D264291DA04000A547E1 /* SwiftUI100Days_Day4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftUI100Days_Day4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		65F7D25D291D9D3F00A547E1 = {
+			isa = PBXGroup;
+			children = (
+				65F7D264291DA04000A547E1 /* SwiftUI100Days_Day4.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		65F7D25E291D9D3F00A547E1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = 65F7D261291D9D3F00A547E1 /* Build configuration list for PBXProject "PlaygroundExample" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 65F7D25D291D9D3F00A547E1;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		65F7D262291D9D3F00A547E1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		65F7D263291D9D3F00A547E1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65F7D261291D9D3F00A547E1 /* Build configuration list for PBXProject "PlaygroundExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65F7D262291D9D3F00A547E1 /* Debug */,
+				65F7D263291D9D3F00A547E1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65F7D25E291D9D3F00A547E1 /* Project object */;
+}
